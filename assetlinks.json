@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.soccerpedia.app",
+      "sha256_cert_fingerprints": [
+        "0B:94:8A:18:99:77:AD:BD:B6:6C:26:0F:0D:AE:FF:C1:41:94:B0:13:2C:62:E0:85:32:6D:FE:EB:10:7D:7E:9B"
+      ]
+    }
+  }
+]
